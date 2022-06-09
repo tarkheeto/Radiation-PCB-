@@ -1,0 +1,1713 @@
+Added Component: Designator=C100(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C101(CAPC1608X90N-3)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "310650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X5R (EIA);Tol.:-10%/+10%;Vdc:25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=310651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "CAP01010924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CAP01010924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.80mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "2.2uF / 25V / 10% / X5R (EIA) / 0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1845734RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-10731-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "81-GRM188R61E225KA2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C201(CAPC1608X90N-3)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "310650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X5R (EIA);Tol.:-10%/+10%;Vdc:25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=310651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "CAP01010924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CAP01010924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.80mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "2.2uF / 25V / 10% / X5R (EIA) / 0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1845734RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-10731-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "81-GRM188R61E225KA2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C202(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C203(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C204(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C205(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C206(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C207(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C208(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C209(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C210(CAPC1608X90N-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "479045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X7R (EIA);Tol.:-10%/+10%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avx.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=479046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.81mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "100nF / 50V / 10% / X7R (EIA) / 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2280883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "478-5052-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "581-06035C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C211(CAPC1608X90N-3)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "310650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X5R (EIA);Tol.:-10%/+10%;Vdc:25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=310651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "CAP01010924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CAP01010924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.80mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "2.2uF / 25V / 10% / X5R (EIA) / 0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1845734RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-10731-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "81-GRM188R61E225KA2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C212(CAPC1608X90N-3)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "310650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X5R (EIA);Tol.:-10%/+10%;Vdc:25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=310651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "CAP01010924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CAP01010924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.80mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "2.2uF / 25V / 10% / X5R (EIA) / 0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1845734RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "490-10731-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "81-GRM188R61E225KA2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C213(CAPC1608X90N)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "294236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "AEC Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X8G (Murata);Tol.:-1%/+1%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=294237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "CAP01007920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CAP01007920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "GCM1885G1H110FA16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.80mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Not Recommended For New Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "11pF / 50V / 1% / X8G (Murata) / 0603 (1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "11pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C214(CAPC1608X90N)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "294236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "AEC Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X8G (Murata);Tol.:-1%/+1%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=294237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "CAP01007920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CAP01007920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "GCM1885G1H110FA16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.80mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Not Recommended For New Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "11pF / 50V / 1% / X8G (Murata) / 0603 (1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "11pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C215(CAPC1608X90N)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "294236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "AEC Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X8G (Murata);Tol.:-1%/+1%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=294237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "CAP01007920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CAP01007920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "GCM1885G1H110FA16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.80mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Not Recommended For New Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "11pF / 50V / 1% / X8G (Murata) / 0603 (1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "11pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C216(CAPC1608X90N)
+Add component (AddParameter): Name = "Alternate View"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "294236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "AEC Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "TC:X8G (Murata);Tol.:-1%/+1%;Vdc:50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=294237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "CAP01007920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CAP01007920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MuRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "GCM1885G1H110FA16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Capacitor,non-polarized,Chip;1.60mm L X 0.80mm W X 0.90mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Not Recommended For New Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "11pF / 50V / 1% / X8G (Murata) / 0603 (1608)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Capacitor; Single; Standard; 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "11pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=G100(IFX-PG-SCT595-5-2)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "617559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "- - -;Vo:3.17V to 3.43V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=617560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "IFX_TLE4295G V33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "TLE4295G V33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "PG-SCT595-5-2; 5 pin, 1.60 mm L X 2.90 mm W X 1.1 mm H body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-SCT595-5-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Power Supply"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "PG-SCT595-5-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2762385"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "448-TLE4295GV33HTSA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "726-TLE4295GV33HTSA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "5-V Voltage Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TLE4295G V33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=STM32(BGA100C50P12X12_700X700X60)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32F411VEH6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f411veh6tr/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/STM32F411VEH6TR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F411VEH6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F411VEH6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F411VEH6TR?qs=JkuGhO7zlplnF3BHdhmyGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFP50P2200X2200X160-145N-3)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "419897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "App.:Industrial;-;Vdc min/max:3.13V/3.63V;Fmax:120MHz;RAM:160KB;ROM:160KB;Flash:1MB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=419898"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "IFX_XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "QFP,0.50mm pitch,square;144 pin,20.00mm L X 20.00mm W X 1.60mm H body (w/thermal tab)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-LQFP-144-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "3.63V - 3.13V / PG-LQFP-144-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2418740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "XMC4500F144K1024ACXQMA1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "726-F144K1024ACXQMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Microcontrollers Based on the ARM Cortex-M4 Processor Core"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IFX_XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFP50P2200X2200X160-145N-3)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "419897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "App.:Industrial;-;Vdc min/max:3.13V/3.63V;Fmax:120MHz;RAM:160KB;ROM:160KB;Flash:1MB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=419898"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "IFX_XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "QFP,0.50mm pitch,square;144 pin,20.00mm L X 20.00mm W X 1.60mm H body (w/thermal tab)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-LQFP-144-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "3.63V - 3.13V / PG-LQFP-144-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2418740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "XMC4500F144K1024ACXQMA1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "726-F144K1024ACXQMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Microcontrollers Based on the ARM Cortex-M4 Processor Core"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IFX_XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFP50P2200X2200X160-145N-3)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "419897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "App.:Industrial;-;Vdc min/max:3.13V/3.63V;Fmax:120MHz;RAM:160KB;ROM:160KB;Flash:1MB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=419898"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "IFX_XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "QFP,0.50mm pitch,square;144 pin,20.00mm L X 20.00mm W X 1.60mm H body (w/thermal tab)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-LQFP-144-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "3.63V - 3.13V / PG-LQFP-144-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2418740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "XMC4500F144K1024ACXQMA1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "726-F144K1024ACXQMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Microcontrollers Based on the ARM Cortex-M4 Processor Core"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IFX_XMC4500-F144K1024 AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL-SMD-ECX-53B)
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "653112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Standard Standard Crystal;Tol.:-10%/+10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ecsxtal.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=653113"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ECS Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "ECS-240-8-30B-CKM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Oscillator,corner concave;4 pin,3.20mm L X 5.00mm W X 0.85mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "4-SMD. No Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Clock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "24000000 / Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "XC1842CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "520-240-8-30B-CKM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol type"; Value = "Standard Crystal Symbol, 4 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(XTAL-SMD-ABS07)
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "409415"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Standard Standard Crystal;Tol.:-20%/+20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.abracon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=409416"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "ABR_ABS07-32.768kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "IC02600599"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "ABS07-32.768kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Crystal;3.2mm L X 1.50mm W X 0.9mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMD 3.2 x 1.5 x 0.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Clock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "32768 / Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2101347"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "535-9542-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol type"; Value = "Standard Crystal Symbol, 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.77kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(XTAL-SMD-NX3215SA-32.768K-STD-MUS-2)
+Add component (AddParameter): Name = "Application"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "404149"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "AEC Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Standard Standard Crystal;Tol.:-20%/+20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ndk.com/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=404150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "NDK_NX3215SA-32.768K-STD-MUS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "IC02600133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nihon Dempa Kogyo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "NX3215SA-32.768K-STD-MUS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Crystal; 3.2mm W X 1.5mm L X 0.9mm H body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMD 3.2 x 1.5 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Clock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "32768 / Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "644-1159-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol type"; Value = "Standard Crystal Symbol, 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.77kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C101-2
+Added Pin To Net: NetName=3V3 Pin=C201-2
+Added Pin To Net: NetName=3V3 Pin=C202-2
+Added Pin To Net: NetName=3V3 Pin=C203-2
+Added Pin To Net: NetName=3V3 Pin=C204-2
+Added Pin To Net: NetName=3V3 Pin=C205-2
+Added Pin To Net: NetName=3V3 Pin=C206-2
+Added Pin To Net: NetName=3V3 Pin=C207-2
+Added Pin To Net: NetName=3V3 Pin=C208-2
+Added Pin To Net: NetName=3V3 Pin=C209-2
+Added Pin To Net: NetName=3V3 Pin=C210-2
+Added Pin To Net: NetName=3V3 Pin=G100-4
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=C100-2
+Added Pin To Net: NetName=5V Pin=G100-3
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=GND Pin=C201-1
+Added Pin To Net: NetName=GND Pin=C202-1
+Added Pin To Net: NetName=GND Pin=C203-1
+Added Pin To Net: NetName=GND Pin=C204-1
+Added Pin To Net: NetName=GND Pin=C205-1
+Added Pin To Net: NetName=GND Pin=C206-1
+Added Pin To Net: NetName=GND Pin=C207-1
+Added Pin To Net: NetName=GND Pin=C208-1
+Added Pin To Net: NetName=GND Pin=C209-1
+Added Pin To Net: NetName=GND Pin=C210-1
+Added Pin To Net: NetName=GND Pin=C211-1
+Added Pin To Net: NetName=GND Pin=C212-1
+Added Pin To Net: NetName=GND Pin=C213-1
+Added Pin To Net: NetName=GND Pin=C214-1
+Added Pin To Net: NetName=GND Pin=C215-1
+Added Pin To Net: NetName=GND Pin=C216-1
+Added Pin To Net: NetName=GND Pin=G100-2
+Added Pin To Net: NetName=GND Pin=G100-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC211_2 Pin=C211-2
+Added Net: Name=NetC211_2
+Added Pin To Net: NetName=NetC212_2 Pin=C212-2
+Added Net: Name=NetC212_2
+Added Pin To Net: NetName=NetC213_2 Pin=C213-2
+Added Net: Name=NetC213_2
+Added Pin To Net: NetName=NetC214_2 Pin=C214-2
+Added Net: Name=NetC214_2
+Added Pin To Net: NetName=NetC215_2 Pin=C215-2
+Added Pin To Net: NetName=NetC215_2 Pin=Y1-4
+Added Net: Name=NetC215_2
+Added Pin To Net: NetName=NetC216_2 Pin=C216-2
+Added Pin To Net: NetName=NetC216_2 Pin=Y1-2
+Added Net: Name=NetC216_2
+Added Pin To Net: NetName=NetG100_1 Pin=G100-1
+Added Net: Name=NetG100_1
+Added Pin To Net: NetName=NetSTM32_A1 Pin=STM32-A1
+Added Net: Name=NetSTM32_A1
+Added Pin To Net: NetName=NetSTM32_A2 Pin=STM32-A2
+Added Net: Name=NetSTM32_A2
+Added Pin To Net: NetName=NetSTM32_A3 Pin=STM32-A3
+Added Net: Name=NetSTM32_A3
+Added Pin To Net: NetName=NetSTM32_A4 Pin=STM32-A4
+Added Net: Name=NetSTM32_A4
+Added Pin To Net: NetName=NetSTM32_A5 Pin=STM32-A5
+Added Net: Name=NetSTM32_A5
+Added Pin To Net: NetName=NetSTM32_A6 Pin=STM32-A6
+Added Net: Name=NetSTM32_A6
+Added Pin To Net: NetName=NetSTM32_A7 Pin=STM32-A7
+Added Net: Name=NetSTM32_A7
+Added Pin To Net: NetName=NetSTM32_A8 Pin=STM32-A8
+Added Net: Name=NetSTM32_A8
+Added Pin To Net: NetName=NetSTM32_A9 Pin=STM32-A9
+Added Net: Name=NetSTM32_A9
+Added Pin To Net: NetName=NetSTM32_A10 Pin=STM32-A10
+Added Net: Name=NetSTM32_A10
+Added Pin To Net: NetName=NetSTM32_A11 Pin=STM32-A11
+Added Net: Name=NetSTM32_A11
+Added Pin To Net: NetName=NetSTM32_A12 Pin=STM32-A12
+Added Net: Name=NetSTM32_A12
+Added Pin To Net: NetName=NetSTM32_B1 Pin=STM32-B1
+Added Net: Name=NetSTM32_B1
+Added Pin To Net: NetName=NetSTM32_B2 Pin=STM32-B2
+Added Net: Name=NetSTM32_B2
+Added Pin To Net: NetName=NetSTM32_B3 Pin=STM32-B3
+Added Net: Name=NetSTM32_B3
+Added Pin To Net: NetName=NetSTM32_B4 Pin=STM32-B4
+Added Net: Name=NetSTM32_B4
+Added Pin To Net: NetName=NetSTM32_B5 Pin=STM32-B5
+Added Net: Name=NetSTM32_B5
+Added Pin To Net: NetName=NetSTM32_B6 Pin=STM32-B6
+Added Net: Name=NetSTM32_B6
+Added Pin To Net: NetName=NetSTM32_B7 Pin=STM32-B7
+Added Net: Name=NetSTM32_B7
+Added Pin To Net: NetName=NetSTM32_B8 Pin=STM32-B8
+Added Net: Name=NetSTM32_B8
+Added Pin To Net: NetName=NetSTM32_B9 Pin=STM32-B9
+Added Net: Name=NetSTM32_B9
+Added Pin To Net: NetName=NetSTM32_B10 Pin=STM32-B10
+Added Net: Name=NetSTM32_B10
+Added Pin To Net: NetName=NetSTM32_B11 Pin=STM32-B11
+Added Net: Name=NetSTM32_B11
+Added Pin To Net: NetName=NetSTM32_B12 Pin=STM32-B12
+Added Net: Name=NetSTM32_B12
+Added Pin To Net: NetName=NetSTM32_C1 Pin=STM32-C1
+Added Net: Name=NetSTM32_C1
+Added Pin To Net: NetName=NetSTM32_C2 Pin=STM32-C2
+Added Net: Name=NetSTM32_C2
+Added Pin To Net: NetName=NetSTM32_C3 Pin=STM32-C3
+Added Net: Name=NetSTM32_C3
+Added Pin To Net: NetName=NetSTM32_C4 Pin=STM32-C4
+Added Net: Name=NetSTM32_C4
+Added Pin To Net: NetName=NetSTM32_C5 Pin=STM32-C5
+Added Net: Name=NetSTM32_C5
+Added Pin To Net: NetName=NetSTM32_C8 Pin=STM32-C8
+Added Net: Name=NetSTM32_C8
+Added Pin To Net: NetName=NetSTM32_C9 Pin=STM32-C9
+Added Net: Name=NetSTM32_C9
+Added Pin To Net: NetName=NetSTM32_C10 Pin=STM32-C10
+Added Net: Name=NetSTM32_C10
+Added Pin To Net: NetName=NetSTM32_C11 Pin=STM32-C11
+Added Net: Name=NetSTM32_C11
+Added Pin To Net: NetName=NetSTM32_C12 Pin=STM32-C12
+Added Net: Name=NetSTM32_C12
+Added Pin To Net: NetName=NetSTM32_D1 Pin=STM32-D1
+Added Net: Name=NetSTM32_D1
+Added Pin To Net: NetName=NetSTM32_D2 Pin=STM32-D2
+Added Net: Name=NetSTM32_D2
+Added Pin To Net: NetName=NetSTM32_D3 Pin=STM32-D3
+Added Net: Name=NetSTM32_D3
+Added Pin To Net: NetName=NetSTM32_D10 Pin=STM32-D10
+Added Net: Name=NetSTM32_D10
+Added Pin To Net: NetName=NetSTM32_D11 Pin=STM32-D11
+Added Net: Name=NetSTM32_D11
+Added Pin To Net: NetName=NetSTM32_D12 Pin=STM32-D12
+Added Net: Name=NetSTM32_D12
+Added Pin To Net: NetName=NetSTM32_E1 Pin=STM32-E1
+Added Net: Name=NetSTM32_E1
+Added Pin To Net: NetName=NetSTM32_E2 Pin=STM32-E2
+Added Net: Name=NetSTM32_E2
+Added Pin To Net: NetName=NetSTM32_E3 Pin=STM32-E3
+Added Net: Name=NetSTM32_E3
+Added Pin To Net: NetName=NetSTM32_E10 Pin=STM32-E10
+Added Net: Name=NetSTM32_E10
+Added Pin To Net: NetName=NetSTM32_E11 Pin=STM32-E11
+Added Net: Name=NetSTM32_E11
+Added Pin To Net: NetName=NetSTM32_E12 Pin=STM32-E12
+Added Net: Name=NetSTM32_E12
+Added Pin To Net: NetName=NetSTM32_F1 Pin=STM32-F1
+Added Net: Name=NetSTM32_F1
+Added Pin To Net: NetName=NetSTM32_F2 Pin=STM32-F2
+Added Net: Name=NetSTM32_F2
+Added Pin To Net: NetName=NetSTM32_F11 Pin=STM32-F11
+Added Net: Name=NetSTM32_F11
+Added Pin To Net: NetName=NetSTM32_F12 Pin=STM32-F12
+Added Net: Name=NetSTM32_F12
+Added Pin To Net: NetName=NetSTM32_G1 Pin=STM32-G1
+Added Net: Name=NetSTM32_G1
+Added Pin To Net: NetName=NetSTM32_G2 Pin=STM32-G2
+Added Net: Name=NetSTM32_G2
+Added Pin To Net: NetName=NetSTM32_G11 Pin=STM32-G11
+Added Net: Name=NetSTM32_G11
+Added Pin To Net: NetName=NetSTM32_G12 Pin=STM32-G12
+Added Net: Name=NetSTM32_G12
+Added Pin To Net: NetName=NetSTM32_H1 Pin=STM32-H1
+Added Net: Name=NetSTM32_H1
+Added Pin To Net: NetName=NetSTM32_H2 Pin=STM32-H2
+Added Net: Name=NetSTM32_H2
+Added Pin To Net: NetName=NetSTM32_H3 Pin=STM32-H3
+Added Net: Name=NetSTM32_H3
+Added Pin To Net: NetName=NetSTM32_H10 Pin=STM32-H10
+Added Net: Name=NetSTM32_H10
+Added Pin To Net: NetName=NetSTM32_H11 Pin=STM32-H11
+Added Net: Name=NetSTM32_H11
+Added Pin To Net: NetName=NetSTM32_H12 Pin=STM32-H12
+Added Net: Name=NetSTM32_H12
+Added Pin To Net: NetName=NetSTM32_J1 Pin=STM32-J1
+Added Net: Name=NetSTM32_J1
+Added Pin To Net: NetName=NetSTM32_J2 Pin=STM32-J2
+Added Net: Name=NetSTM32_J2
+Added Pin To Net: NetName=NetSTM32_J3 Pin=STM32-J3
+Added Net: Name=NetSTM32_J3
+Added Pin To Net: NetName=NetSTM32_J10 Pin=STM32-J10
+Added Net: Name=NetSTM32_J10
+Added Pin To Net: NetName=NetSTM32_J11 Pin=STM32-J11
+Added Net: Name=NetSTM32_J11
+Added Pin To Net: NetName=NetSTM32_J12 Pin=STM32-J12
+Added Net: Name=NetSTM32_J12
+Added Pin To Net: NetName=NetSTM32_K1 Pin=STM32-K1
+Added Net: Name=NetSTM32_K1
+Added Pin To Net: NetName=NetSTM32_K2 Pin=STM32-K2
+Added Net: Name=NetSTM32_K2
+Added Pin To Net: NetName=NetSTM32_K3 Pin=STM32-K3
+Added Net: Name=NetSTM32_K3
+Added Pin To Net: NetName=NetSTM32_K4 Pin=STM32-K4
+Added Net: Name=NetSTM32_K4
+Added Pin To Net: NetName=NetSTM32_K5 Pin=STM32-K5
+Added Net: Name=NetSTM32_K5
+Added Pin To Net: NetName=NetSTM32_K8 Pin=STM32-K8
+Added Net: Name=NetSTM32_K8
+Added Pin To Net: NetName=NetSTM32_K9 Pin=STM32-K9
+Added Net: Name=NetSTM32_K9
+Added Pin To Net: NetName=NetSTM32_K10 Pin=STM32-K10
+Added Net: Name=NetSTM32_K10
+Added Pin To Net: NetName=NetSTM32_K11 Pin=STM32-K11
+Added Net: Name=NetSTM32_K11
+Added Pin To Net: NetName=NetSTM32_K12 Pin=STM32-K12
+Added Net: Name=NetSTM32_K12
+Added Pin To Net: NetName=NetSTM32_L1 Pin=STM32-L1
+Added Net: Name=NetSTM32_L1
+Added Pin To Net: NetName=NetSTM32_L2 Pin=STM32-L2
+Added Net: Name=NetSTM32_L2
+Added Pin To Net: NetName=NetSTM32_L3 Pin=STM32-L3
+Added Net: Name=NetSTM32_L3
+Added Pin To Net: NetName=NetSTM32_L4 Pin=STM32-L4
+Added Net: Name=NetSTM32_L4
+Added Pin To Net: NetName=NetSTM32_L5 Pin=STM32-L5
+Added Net: Name=NetSTM32_L5
+Added Pin To Net: NetName=NetSTM32_L6 Pin=STM32-L6
+Added Net: Name=NetSTM32_L6
+Added Pin To Net: NetName=NetSTM32_L7 Pin=STM32-L7
+Added Net: Name=NetSTM32_L7
+Added Pin To Net: NetName=NetSTM32_L8 Pin=STM32-L8
+Added Net: Name=NetSTM32_L8
+Added Pin To Net: NetName=NetSTM32_L9 Pin=STM32-L9
+Added Net: Name=NetSTM32_L9
+Added Pin To Net: NetName=NetSTM32_L10 Pin=STM32-L10
+Added Net: Name=NetSTM32_L10
+Added Pin To Net: NetName=NetSTM32_L11 Pin=STM32-L11
+Added Net: Name=NetSTM32_L11
+Added Pin To Net: NetName=NetSTM32_L12 Pin=STM32-L12
+Added Net: Name=NetSTM32_L12
+Added Pin To Net: NetName=NetSTM32_M1 Pin=STM32-M1
+Added Net: Name=NetSTM32_M1
+Added Pin To Net: NetName=NetSTM32_M2 Pin=STM32-M2
+Added Net: Name=NetSTM32_M2
+Added Pin To Net: NetName=NetSTM32_M3 Pin=STM32-M3
+Added Net: Name=NetSTM32_M3
+Added Pin To Net: NetName=NetSTM32_M4 Pin=STM32-M4
+Added Net: Name=NetSTM32_M4
+Added Pin To Net: NetName=NetSTM32_M5 Pin=STM32-M5
+Added Net: Name=NetSTM32_M5
+Added Pin To Net: NetName=NetSTM32_M6 Pin=STM32-M6
+Added Net: Name=NetSTM32_M6
+Added Pin To Net: NetName=NetSTM32_M7 Pin=STM32-M7
+Added Net: Name=NetSTM32_M7
+Added Pin To Net: NetName=NetSTM32_M8 Pin=STM32-M8
+Added Net: Name=NetSTM32_M8
+Added Pin To Net: NetName=NetSTM32_M9 Pin=STM32-M9
+Added Net: Name=NetSTM32_M9
+Added Pin To Net: NetName=NetSTM32_M10 Pin=STM32-M10
+Added Net: Name=NetSTM32_M10
+Added Pin To Net: NetName=NetSTM32_M11 Pin=STM32-M11
+Added Net: Name=NetSTM32_M11
+Added Pin To Net: NetName=NetSTM32_M12 Pin=STM32-M12
+Added Net: Name=NetSTM32_M12
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Net: Name=NetU?_4
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Net: Name=NetU?_5
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Net: Name=NetU?_6
+Added Pin To Net: NetName=NetU?_7 Pin=U?-7
+Added Net: Name=NetU?_7
+Added Pin To Net: NetName=NetU?_8 Pin=U?-8
+Added Net: Name=NetU?_8
+Added Pin To Net: NetName=NetU?_9 Pin=U?-9
+Added Net: Name=NetU?_9
+Added Pin To Net: NetName=NetU?_10 Pin=U?-10
+Added Net: Name=NetU?_10
+Added Pin To Net: NetName=NetU?_11 Pin=U?-11
+Added Net: Name=NetU?_11
+Added Pin To Net: NetName=NetU?_12 Pin=U?-12
+Added Net: Name=NetU?_12
+Added Pin To Net: NetName=NetU?_13 Pin=U?-13
+Added Net: Name=NetU?_13
+Added Pin To Net: NetName=NetU?_14 Pin=U?-14
+Added Net: Name=NetU?_14
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Net: Name=NetU?_15
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Net: Name=NetU?_16
+Added Pin To Net: NetName=NetU?_17 Pin=U?-17
+Added Net: Name=NetU?_17
+Added Pin To Net: NetName=NetU?_18 Pin=U?-18
+Added Net: Name=NetU?_18
+Added Pin To Net: NetName=NetU?_19 Pin=U?-19
+Added Net: Name=NetU?_19
+Added Pin To Net: NetName=NetU?_20 Pin=U?-20
+Added Net: Name=NetU?_20
+Added Pin To Net: NetName=NetU?_21 Pin=U?-21
+Added Net: Name=NetU?_21
+Added Pin To Net: NetName=NetU?_22 Pin=U?-22
+Added Net: Name=NetU?_22
+Added Pin To Net: NetName=NetU?_23 Pin=U?-23
+Added Net: Name=NetU?_23
+Added Pin To Net: NetName=NetU?_24 Pin=U?-24
+Added Net: Name=NetU?_24
+Added Pin To Net: NetName=NetU?_25 Pin=U?-25
+Added Net: Name=NetU?_25
+Added Pin To Net: NetName=NetU?_26 Pin=U?-26
+Added Net: Name=NetU?_26
+Added Pin To Net: NetName=NetU?_27 Pin=U?-27
+Added Net: Name=NetU?_27
+Added Pin To Net: NetName=NetU?_28 Pin=U?-28
+Added Net: Name=NetU?_28
+Added Pin To Net: NetName=NetU?_29 Pin=U?-29
+Added Net: Name=NetU?_29
+Added Pin To Net: NetName=NetU?_30 Pin=U?-30
+Added Net: Name=NetU?_30
+Added Pin To Net: NetName=NetU?_31 Pin=U?-31
+Added Net: Name=NetU?_31
+Added Pin To Net: NetName=NetU?_32 Pin=U?-32
+Added Net: Name=NetU?_32
+Added Pin To Net: NetName=NetU?_33 Pin=U?-33
+Added Net: Name=NetU?_33
+Added Pin To Net: NetName=NetU?_34 Pin=U?-34
+Added Net: Name=NetU?_34
+Added Pin To Net: NetName=NetU?_35 Pin=U?-35
+Added Net: Name=NetU?_35
+Added Pin To Net: NetName=NetU?_36 Pin=U?-36
+Added Net: Name=NetU?_36
+Added Pin To Net: NetName=NetU?_37 Pin=U?-37
+Added Net: Name=NetU?_37
+Added Pin To Net: NetName=NetU?_38 Pin=U?-38
+Added Net: Name=NetU?_38
+Added Pin To Net: NetName=NetU?_39 Pin=U?-39
+Added Net: Name=NetU?_39
+Added Pin To Net: NetName=NetU?_40 Pin=U?-40
+Added Net: Name=NetU?_40
+Added Pin To Net: NetName=NetU?_41 Pin=U?-41
+Added Net: Name=NetU?_41
+Added Pin To Net: NetName=NetU?_42 Pin=U?-42
+Added Net: Name=NetU?_42
+Added Pin To Net: NetName=NetU?_43 Pin=U?-43
+Added Net: Name=NetU?_43
+Added Pin To Net: NetName=NetU?_44 Pin=U?-44
+Added Net: Name=NetU?_44
+Added Pin To Net: NetName=NetU?_45 Pin=U?-45
+Added Net: Name=NetU?_45
+Added Pin To Net: NetName=NetU?_46 Pin=U?-46
+Added Net: Name=NetU?_46
+Added Pin To Net: NetName=NetU?_47 Pin=U?-47
+Added Net: Name=NetU?_47
+Added Pin To Net: NetName=NetU?_48 Pin=U?-48
+Added Net: Name=NetU?_48
+Added Pin To Net: NetName=NetU?_49 Pin=U?-49
+Added Net: Name=NetU?_49
+Added Pin To Net: NetName=NetU?_50 Pin=U?-50
+Added Net: Name=NetU?_50
+Added Pin To Net: NetName=NetU?_51 Pin=U?-51
+Added Net: Name=NetU?_51
+Added Pin To Net: NetName=NetU?_52 Pin=U?-52
+Added Net: Name=NetU?_52
+Added Pin To Net: NetName=NetU?_53 Pin=U?-53
+Added Net: Name=NetU?_53
+Added Pin To Net: NetName=NetU?_54 Pin=U?-54
+Added Net: Name=NetU?_54
+Added Pin To Net: NetName=NetU?_55 Pin=U?-55
+Added Net: Name=NetU?_55
+Added Pin To Net: NetName=NetU?_56 Pin=U?-56
+Added Net: Name=NetU?_56
+Added Pin To Net: NetName=NetU?_57 Pin=U?-57
+Added Net: Name=NetU?_57
+Added Pin To Net: NetName=NetU?_58 Pin=U?-58
+Added Net: Name=NetU?_58
+Added Pin To Net: NetName=NetU?_59 Pin=U?-59
+Added Net: Name=NetU?_59
+Added Pin To Net: NetName=NetU?_60 Pin=U?-60
+Added Net: Name=NetU?_60
+Added Pin To Net: NetName=NetU?_61 Pin=U?-61
+Added Net: Name=NetU?_61
+Added Pin To Net: NetName=NetU?_62 Pin=U?-62
+Added Net: Name=NetU?_62
+Added Pin To Net: NetName=NetU?_63 Pin=U?-63
+Added Net: Name=NetU?_63
+Added Pin To Net: NetName=NetU?_64 Pin=U?-64
+Added Net: Name=NetU?_64
+Added Pin To Net: NetName=NetU?_65 Pin=U?-65
+Added Net: Name=NetU?_65
+Added Pin To Net: NetName=NetU?_66 Pin=U?-66
+Added Net: Name=NetU?_66
+Added Pin To Net: NetName=NetU?_67 Pin=U?-67
+Added Net: Name=NetU?_67
+Added Pin To Net: NetName=NetU?_68 Pin=U?-68
+Added Net: Name=NetU?_68
+Added Pin To Net: NetName=NetU?_69 Pin=U?-69
+Added Net: Name=NetU?_69
+Added Pin To Net: NetName=NetU?_70 Pin=U?-70
+Added Net: Name=NetU?_70
+Added Pin To Net: NetName=NetU?_71 Pin=U?-71
+Added Net: Name=NetU?_71
+Added Pin To Net: NetName=NetU?_72 Pin=U?-72
+Added Net: Name=NetU?_72
+Added Pin To Net: NetName=NetU?_73 Pin=U?-73
+Added Net: Name=NetU?_73
+Added Pin To Net: NetName=NetU?_74 Pin=U?-74
+Added Net: Name=NetU?_74
+Added Pin To Net: NetName=NetU?_75 Pin=U?-75
+Added Net: Name=NetU?_75
+Added Pin To Net: NetName=NetU?_76 Pin=U?-76
+Added Net: Name=NetU?_76
+Added Pin To Net: NetName=NetU?_77 Pin=U?-77
+Added Net: Name=NetU?_77
+Added Pin To Net: NetName=NetU?_78 Pin=U?-78
+Added Net: Name=NetU?_78
+Added Pin To Net: NetName=NetU?_79 Pin=U?-79
+Added Net: Name=NetU?_79
+Added Pin To Net: NetName=NetU?_80 Pin=U?-80
+Added Net: Name=NetU?_80
+Added Pin To Net: NetName=NetU?_81 Pin=U?-81
+Added Net: Name=NetU?_81
+Added Pin To Net: NetName=NetU?_82 Pin=U?-82
+Added Net: Name=NetU?_82
+Added Pin To Net: NetName=NetU?_83 Pin=U?-83
+Added Net: Name=NetU?_83
+Added Pin To Net: NetName=NetU?_84 Pin=U?-84
+Added Net: Name=NetU?_84
+Added Pin To Net: NetName=NetU?_85 Pin=U?-85
+Added Net: Name=NetU?_85
+Added Pin To Net: NetName=NetU?_86 Pin=U?-86
+Added Net: Name=NetU?_86
+Added Pin To Net: NetName=NetU?_87 Pin=U?-87
+Added Net: Name=NetU?_87
+Added Pin To Net: NetName=NetU?_88 Pin=U?-88
+Added Net: Name=NetU?_88
+Added Pin To Net: NetName=NetU?_89 Pin=U?-89
+Added Net: Name=NetU?_89
+Added Pin To Net: NetName=NetU?_90 Pin=U?-90
+Added Net: Name=NetU?_90
+Added Pin To Net: NetName=NetU?_91 Pin=U?-91
+Added Net: Name=NetU?_91
+Added Pin To Net: NetName=NetU?_92 Pin=U?-92
+Added Net: Name=NetU?_92
+Added Pin To Net: NetName=NetU?_93 Pin=U?-93
+Added Net: Name=NetU?_93
+Added Pin To Net: NetName=NetU?_94 Pin=U?-94
+Added Net: Name=NetU?_94
+Added Pin To Net: NetName=NetU?_95 Pin=U?-95
+Added Net: Name=NetU?_95
+Added Pin To Net: NetName=NetU?_96 Pin=U?-96
+Added Net: Name=NetU?_96
+Added Pin To Net: NetName=NetU?_97 Pin=U?-97
+Added Net: Name=NetU?_97
+Added Pin To Net: NetName=NetU?_98 Pin=U?-98
+Added Net: Name=NetU?_98
+Added Pin To Net: NetName=NetU?_99 Pin=U?-99
+Added Net: Name=NetU?_99
+Added Pin To Net: NetName=NetU?_100 Pin=U?-100
+Added Net: Name=NetU?_100
+Added Pin To Net: NetName=NetU?_101 Pin=U?-101
+Added Net: Name=NetU?_101
+Added Pin To Net: NetName=NetU?_102 Pin=U?-102
+Added Net: Name=NetU?_102
+Added Pin To Net: NetName=NetU?_103 Pin=U?-103
+Added Net: Name=NetU?_103
+Added Pin To Net: NetName=NetU?_104 Pin=U?-104
+Added Net: Name=NetU?_104
+Added Pin To Net: NetName=NetU?_105 Pin=U?-105
+Added Net: Name=NetU?_105
+Added Pin To Net: NetName=NetU?_106 Pin=U?-106
+Added Net: Name=NetU?_106
+Added Pin To Net: NetName=NetU?_107 Pin=U?-107
+Added Net: Name=NetU?_107
+Added Pin To Net: NetName=NetU?_108 Pin=U?-108
+Added Net: Name=NetU?_108
+Added Pin To Net: NetName=NetU?_109 Pin=U?-109
+Added Net: Name=NetU?_109
+Added Pin To Net: NetName=NetU?_110 Pin=U?-110
+Added Net: Name=NetU?_110
+Added Pin To Net: NetName=NetU?_111 Pin=U?-111
+Added Net: Name=NetU?_111
+Added Pin To Net: NetName=NetU?_112 Pin=U?-112
+Added Net: Name=NetU?_112
+Added Pin To Net: NetName=NetU?_113 Pin=U?-113
+Added Net: Name=NetU?_113
+Added Pin To Net: NetName=NetU?_114 Pin=U?-114
+Added Net: Name=NetU?_114
+Added Pin To Net: NetName=NetU?_115 Pin=U?-115
+Added Net: Name=NetU?_115
+Added Pin To Net: NetName=NetU?_116 Pin=U?-116
+Added Net: Name=NetU?_116
+Added Pin To Net: NetName=NetU?_117 Pin=U?-117
+Added Net: Name=NetU?_117
+Added Pin To Net: NetName=NetU?_118 Pin=U?-118
+Added Net: Name=NetU?_118
+Added Pin To Net: NetName=NetU?_119 Pin=U?-119
+Added Net: Name=NetU?_119
+Added Pin To Net: NetName=NetU?_120 Pin=U?-120
+Added Net: Name=NetU?_120
+Added Pin To Net: NetName=NetU?_121 Pin=U?-121
+Added Net: Name=NetU?_121
+Added Pin To Net: NetName=NetU?_122 Pin=U?-122
+Added Net: Name=NetU?_122
+Added Pin To Net: NetName=NetU?_123 Pin=U?-123
+Added Net: Name=NetU?_123
+Added Pin To Net: NetName=NetU?_124 Pin=U?-124
+Added Net: Name=NetU?_124
+Added Pin To Net: NetName=NetU?_125 Pin=U?-125
+Added Net: Name=NetU?_125
+Added Pin To Net: NetName=NetU?_126 Pin=U?-126
+Added Net: Name=NetU?_126
+Added Pin To Net: NetName=NetU?_127 Pin=U?-127
+Added Net: Name=NetU?_127
+Added Pin To Net: NetName=NetU?_128 Pin=U?-128
+Added Net: Name=NetU?_128
+Added Pin To Net: NetName=NetU?_129 Pin=U?-129
+Added Net: Name=NetU?_129
+Added Pin To Net: NetName=NetU?_130 Pin=U?-130
+Added Net: Name=NetU?_130
+Added Pin To Net: NetName=NetU?_131 Pin=U?-131
+Added Net: Name=NetU?_131
+Added Pin To Net: NetName=NetU?_132 Pin=U?-132
+Added Net: Name=NetU?_132
+Added Pin To Net: NetName=NetU?_133 Pin=U?-133
+Added Net: Name=NetU?_133
+Added Pin To Net: NetName=NetU?_134 Pin=U?-134
+Added Net: Name=NetU?_134
+Added Pin To Net: NetName=NetU?_135 Pin=U?-135
+Added Net: Name=NetU?_135
+Added Pin To Net: NetName=NetU?_136 Pin=U?-136
+Added Net: Name=NetU?_136
+Added Pin To Net: NetName=NetU?_137 Pin=U?-137
+Added Net: Name=NetU?_137
+Added Pin To Net: NetName=NetU?_138 Pin=U?-138
+Added Net: Name=NetU?_138
+Added Pin To Net: NetName=NetU?_139 Pin=U?-139
+Added Net: Name=NetU?_139
+Added Pin To Net: NetName=NetU?_140 Pin=U?-140
+Added Net: Name=NetU?_140
+Added Pin To Net: NetName=NetU?_141 Pin=U?-141
+Added Net: Name=NetU?_141
+Added Pin To Net: NetName=NetU?_142 Pin=U?-142
+Added Net: Name=NetU?_142
+Added Pin To Net: NetName=NetU?_143 Pin=U?-143
+Added Net: Name=NetU?_143
+Added Pin To Net: NetName=NetU?_144 Pin=U?-144
+Added Net: Name=NetU?_144
+Added Pin To Net: NetName=NetU?_145 Pin=U?-145
+Added Net: Name=NetU?_145
+Added Pin To Net: NetName=NetY?_1 Pin=Y?-1
+Added Net: Name=NetY?_1
+Add Net: Net with name "NetY?_1" already exists
+Added Pin To Net: NetName=NetY?_2 Pin=Y?-2
+Added Net: Name=NetY?_2
+Add Net: Net with name "NetY?_2" already exists
+Added Pin To Net: NetName=OSC_IN Pin=Y1-3
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-1
+Added Net: Name=OSC_OUT
+Added Class: Name=PowerSupply
+Added Class: Name=STM32
+Added Class: Name=XMC4504
+Change Room Name: Old Name=Height_Top_Area New Name=XMC4504
+Change Room Scope: Old Scope=All New Scope=InComponentClass('XMC4504')
+Added Room: Name=PowerSupply
+Added Room: Name=STM32

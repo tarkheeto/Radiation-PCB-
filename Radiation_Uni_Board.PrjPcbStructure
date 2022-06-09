@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_MSP430|SchDesignator=U_MSP430|FileName=MSP430.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=MSP430.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_PowerSupply|SchDesignator=U_PowerSupply|FileName=PowerSupply.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_STM32|SchDesignator=U_STM32|FileName=STM32.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_XMC4504|SchDesignator=U_XMC4504|FileName=XMC4504.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=XMC4504.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
