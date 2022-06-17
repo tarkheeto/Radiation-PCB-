@@ -115,6 +115,78 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYPYNWJF
 
+[Parameter1]
+Name=Variant
+Value=V1.0
+
+[Parameter2]
+Name=PRJ_Year
+Value=2022
+
+[Parameter3]
+Name=PRJ_Title
+Value=MCU Radiation Testing Board
+
+[Parameter4]
+Name=PRJ_SCH_Revision
+Value=V1.0
+
+[Parameter5]
+Name=PRJ_SCH_Author
+Value=Youssef Tarkhan
+
+[Parameter6]
+Name=PRJ_Revision
+Value=
+
+[Parameter7]
+Name=PRJ_Responsible
+Value=Youssef Tarkhan
+
+[Parameter8]
+Name=PRJ_Preliminary
+Value=
+
+[Parameter9]
+Name=PRJ_PCB_Revision
+Value=V1.0
+
+[Parameter10]
+Name=PRJ_PCB_Release
+Value=
+
+[Parameter11]
+Name=PRJ_PCBDesigner
+Value=Youssef Tarkhan
+
+[Parameter12]
+Name=PRJ_PCBApprovedBy
+Value=
+
+[Parameter13]
+Name=PRJ_Organization
+Value=Infineon Technologies AG/TUM
+
+[Parameter14]
+Name=PRJ_Engineer
+Value=Youssef Tarkhan
+
+[Parameter15]
+Name=PRJ_Copyright
+Value=
+
+[Parameter16]
+Name=PRJ_ConfidentialStatus
+Value=
+
+[Parameter17]
+Name=PRJ_Address2
+Value=Technical University of Munich 
+
+[Parameter18]
+Name=PRJ_Address1
+Value=IFAG DES SDF SCS EPE
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=SWITCH_3V3_STM Pin=X200-1
+Removed Pin From Net: NetName=SWITCH_3V3_STM Pin=X200-2
+Removed Pin From Net: NetName=VAGND Pin=X200-3
+Removed Pin From Net: NetName=VAGND Pin=X200-4
+Removed Pin From Net: NetName=VAGND Pin=X200-5
+Removed Pin From Net: NetName=VAGND Pin=X200-6
+Removed Pin From Net: NetName=SWDIO Pin=X200-7
+Removed Pin From Net: NetName=VAGND Pin=X200-8
+Removed Pin From Net: NetName=SWCLK Pin=X200-9
+Removed Pin From Net: NetName=VAGND Pin=X200-10
+Removed Pin From Net: NetName=VAGND Pin=X200-12
+Removed Pin From Net: NetName=SWO Pin=X200-13
+Removed Pin From Net: NetName=VAGND Pin=X200-14
+Removed Pin From Net: NetName=NRST Pin=X200-15
+Removed Pin From Net: NetName=VAGND Pin=X200-16
+Removed Pin From Net: NetName=VAGND Pin=X200-18
+Removed Pin From Net: NetName=VAGND Pin=X200-20
+Removed Pin From Net: NetName=OSC32_IN Pin=X201-1
+Removed Member From Class: ClassName=STM32 Member=X200
+Added Component: Designator=J200(SHDR20W64P254_2X10_2824X1016X1118P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.in/datasheet/2/418/7/ENG_CD_87589_R4-2068924.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.176mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-87589-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=J200-1
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=J200-2
+Added Pin To Net: NetName=VAGND Pin=J200-3
+Added Pin To Net: NetName=VAGND Pin=J200-4
+Added Pin To Net: NetName=VAGND Pin=J200-5
+Added Pin To Net: NetName=VAGND Pin=J200-6
+Added Pin To Net: NetName=SWDIO Pin=J200-7
+Added Pin To Net: NetName=VAGND Pin=J200-8
+Added Pin To Net: NetName=SWCLK Pin=J200-9
+Added Pin To Net: NetName=VAGND Pin=J200-10
+Added Pin To Net: NetName=VAGND Pin=J200-12
+Added Pin To Net: NetName=SWO Pin=J200-13
+Added Pin To Net: NetName=VAGND Pin=J200-14
+Added Pin To Net: NetName=NRST Pin=J200-15
+Added Pin To Net: NetName=VAGND Pin=J200-16
+Added Pin To Net: NetName=VAGND Pin=J200-18
+Added Pin To Net: NetName=VAGND Pin=J200-20
+Added Pin To Net: NetName=NetJ200_11 Pin=J200-11
+Added Net: Name=NetJ200_11
+Added Pin To Net: NetName=NetJ200_17 Pin=J200-17
+Added Net: Name=NetJ200_17
+Added Pin To Net: NetName=NetJ200_19 Pin=J200-19
+Added Net: Name=NetJ200_19
+Added Member To Class: ClassName=STM32 Member=Component J200 5-87589-6
