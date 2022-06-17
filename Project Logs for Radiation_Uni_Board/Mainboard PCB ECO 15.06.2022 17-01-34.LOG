@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SWITCH_3V3_XMC Pin=STM32-E2
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Pin To Net: NetName=NetSTM32_E2 Pin=STM32-E2
+Added Net: Name=NetSTM32_E2

@@ -1,0 +1,342 @@
+Removed Pin From Net: NetName=XMC_GPIO16 Pin=J310-1
+Removed Pin From Net: NetName=DAC1 Pin=J310-2
+Removed Pin From Net: NetName=XMC_GPIO17 Pin=J310-3
+Removed Pin From Net: NetName=DAC2 Pin=J310-4
+Removed Pin From Net: NetName=XMC_GPIO18 Pin=J310-5
+Removed Pin From Net: NetName=UART1TX Pin=J310-6
+Removed Pin From Net: NetName=XMC_GPIO19 Pin=J310-7
+Removed Pin From Net: NetName=UART1RX Pin=J310-8
+Removed Pin From Net: NetName=XMC_GPIO20 Pin=J310-9
+Removed Pin From Net: NetName=XMC_GPIO1 Pin=J310-10
+Removed Pin From Net: NetName=XMC_GPIO21 Pin=J310-11
+Removed Pin From Net: NetName=XMC_GPIO2 Pin=J310-12
+Removed Pin From Net: NetName=XMC_GPIO22 Pin=J310-13
+Removed Pin From Net: NetName=XMC_GPIO3 Pin=J310-14
+Removed Pin From Net: NetName=XMC_GPIO23 Pin=J310-15
+Removed Pin From Net: NetName=XMC_GPIO4 Pin=J310-16
+Removed Pin From Net: NetName=XMC_GPIO24 Pin=J310-17
+Removed Pin From Net: NetName=XMC_GPIO5 Pin=J310-18
+Removed Pin From Net: NetName=XMC_GPIO25 Pin=J310-19
+Removed Pin From Net: NetName=XMC_GPIO6 Pin=J310-20
+Removed Pin From Net: NetName=XMC_GPIO26 Pin=J310-21
+Removed Pin From Net: NetName=XMC_GPIO7 Pin=J310-22
+Removed Pin From Net: NetName=XMC_GPIO27 Pin=J310-23
+Removed Pin From Net: NetName=XMC_GPIO8 Pin=J310-24
+Removed Pin From Net: NetName=XMC_GPIO28 Pin=J310-25
+Removed Pin From Net: NetName=XMC_GPIO9 Pin=J310-26
+Removed Pin From Net: NetName=XMC_GPIO29 Pin=J310-27
+Removed Pin From Net: NetName=XMC_GPIO10 Pin=J310-28
+Removed Pin From Net: NetName=XMC_GPIO30 Pin=J310-29
+Removed Pin From Net: NetName=XMC_GPIO11 Pin=J310-30
+Removed Pin From Net: NetName=XMC_GPIO31 Pin=J310-31
+Removed Pin From Net: NetName=XMC_GPIO12 Pin=J310-32
+Removed Pin From Net: NetName=XMC_GPIO32 Pin=J310-33
+Removed Pin From Net: NetName=XMC_GPIO13 Pin=J310-34
+Removed Pin From Net: NetName=XMC_GPIO33 Pin=J310-35
+Removed Pin From Net: NetName=XMC_GPIO14 Pin=J310-36
+Removed Pin From Net: NetName=XMC_GPIO34 Pin=J310-37
+Removed Pin From Net: NetName=XMC_GPIO15 Pin=J310-38
+Removed Pin From Net: NetName=XMC_GPIO54 Pin=J320-1
+Removed Pin From Net: NetName=XMC_GPIO35 Pin=J320-2
+Removed Pin From Net: NetName=XMC_GPIO55 Pin=J320-3
+Removed Pin From Net: NetName=XMC_GPIO36 Pin=J320-4
+Removed Pin From Net: NetName=XMC_GPIO56 Pin=J320-5
+Removed Pin From Net: NetName=XMC_GPIO37 Pin=J320-6
+Removed Pin From Net: NetName=XMC_GPIO57 Pin=J320-7
+Removed Pin From Net: NetName=XMC_GPIO38 Pin=J320-8
+Removed Pin From Net: NetName=XMC_GPIO58 Pin=J320-9
+Removed Pin From Net: NetName=XMC_GPIO39 Pin=J320-10
+Removed Pin From Net: NetName=XMC_GPIO59 Pin=J320-11
+Removed Pin From Net: NetName=XMC_GPIO40 Pin=J320-12
+Removed Pin From Net: NetName=XMC_GPIO60 Pin=J320-13
+Removed Pin From Net: NetName=XMC_GPIO41 Pin=J320-14
+Removed Pin From Net: NetName=XMC_GPIO61 Pin=J320-15
+Removed Pin From Net: NetName=XMC_GPIO42 Pin=J320-16
+Removed Pin From Net: NetName=XMC_GPIO62 Pin=J320-17
+Removed Pin From Net: NetName=XMC_GPIO43 Pin=J320-18
+Removed Pin From Net: NetName=XMC_GPIO63 Pin=J320-19
+Removed Pin From Net: NetName=XMC_GPIO44 Pin=J320-20
+Removed Pin From Net: NetName=XMC_GPIO64 Pin=J320-21
+Removed Pin From Net: NetName=XMC_GPIO45 Pin=J320-22
+Removed Pin From Net: NetName=LED_1 Pin=J320-23
+Removed Pin From Net: NetName=XMC_GPIO46 Pin=J320-24
+Removed Pin From Net: NetName=LED_2 Pin=J320-25
+Removed Pin From Net: NetName=XMC_GPIO47 Pin=J320-26
+Removed Pin From Net: NetName=LED_3 Pin=J320-27
+Removed Pin From Net: NetName=XMC_GPIO48 Pin=J320-28
+Removed Pin From Net: NetName=3V3 Pin=J320-29
+Removed Pin From Net: NetName=XMC_GPIO49 Pin=J320-30
+Removed Pin From Net: NetName=3V3 Pin=J320-31
+Removed Pin From Net: NetName=XMC_GPIO50 Pin=J320-32
+Removed Pin From Net: NetName=3V3 Pin=J320-33
+Removed Pin From Net: NetName=XMC_GPIO51 Pin=J320-34
+Removed Pin From Net: NetName=VAGND Pin=J320-35
+Removed Pin From Net: NetName=XMC_GPIO52 Pin=J320-36
+Removed Pin From Net: NetName=VAGND Pin=J320-37
+Removed Pin From Net: NetName=XMC_GPIO53 Pin=J320-38
+Removed Member From Class: ClassName=XMC4504 Member=J310
+Removed Member From Class: ClassName=XMC4504 Member=J320
+Change Component Designator: OldDesignator=+ - NewDesignator=Input_Header
+Change Component Designator: OldDesignator=PowerSwitch NewDesignator=S?
+Added Component: Designator=X250(CON-M-THT-TSW-122-07-L-S)
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "385945"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Board-to-Board/Cable Header (male);22x1;Mounting:THT;Orient:0° (vertical);Shielded:No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=385946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "SAM_TSW-122-07-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CON01500868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "TSW-122-07-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Header, Vertical, 2.54mm pitch; 0.64mm lead width, 22 pins, Single row, 55.88mm L X 2.54mm W X 8.712mm H body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "0° (vertical) / Board-to-Board/Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2035626"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1031-22-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol type"; Value = "Header 22pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Board-to-Board/Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TSW-122-07-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=X251(HDRV16W66P254_1X16_4064X249X838B)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "377324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Board-to-Board Header (male);16x1;Mounting:THT;Orient:0° (vertical);Shielded:No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=377325"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "MOL_22-28-4166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CON01500040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "22-28-4166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2.54mm Pitch KK header, Breakaway, Vertical, 16 Circuits, 0.76um Gold Selective Plating, Mating Pin Length 6.09mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "0° (vertical) / Board-to-Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "22-28-4166-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "538-22-28-4166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Header 16 pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Board-to-Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-28-4166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=X252(HDRV16W66P254_1X16_4064X249X838B)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "377324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Board-to-Board Header (male);16x1;Mounting:THT;Orient:0° (vertical);Shielded:No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=377325"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "MOL_22-28-4166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CON01500040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "22-28-4166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2.54mm Pitch KK header, Breakaway, Vertical, 16 Circuits, 0.76um Gold Selective Plating, Mating Pin Length 6.09mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "0° (vertical) / Board-to-Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "22-28-4166-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "538-22-28-4166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Header 16 pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Board-to-Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-28-4166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=X253(CON-M-THT-TSW-122-07-L-S)
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "385945"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Board-to-Board/Cable Header (male);22x1;Mounting:THT;Orient:0° (vertical);Shielded:No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=385946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "SAM_TSW-122-07-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "CON01500868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "TSW-122-07-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Header, Vertical, 2.54mm pitch; 0.64mm lead width, 22 pins, Single row, 55.88mm L X 2.54mm W X 8.712mm H body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "0° (vertical) / Board-to-Board/Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2035626"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1031-22-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol type"; Value = "Header 22pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Board-to-Board/Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TSW-122-07-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Pin To Net: NetName=XMC_GPIO37 Pin=X250-1
+Added Pin To Net: NetName=XMC_GPIO36 Pin=X250-2
+Added Pin To Net: NetName=XMC_GPIO35 Pin=X250-3
+Added Pin To Net: NetName=XMC_GPIO34 Pin=X250-4
+Added Pin To Net: NetName=XMC_GPIO33 Pin=X250-5
+Added Pin To Net: NetName=XMC_GPIO32 Pin=X250-6
+Added Pin To Net: NetName=XMC_GPIO31 Pin=X250-7
+Added Pin To Net: NetName=XMC_GPIO30 Pin=X250-8
+Added Pin To Net: NetName=XMC_GPIO6 Pin=X250-9
+Added Pin To Net: NetName=XMC_GPIO29 Pin=X250-10
+Added Pin To Net: NetName=XMC_GPIO28 Pin=X250-11
+Added Pin To Net: NetName=XMC_GPIO27 Pin=X250-12
+Added Pin To Net: NetName=XMC_GPIO26 Pin=X250-13
+Added Pin To Net: NetName=XMC_GPIO25 Pin=X250-14
+Added Pin To Net: NetName=XMC_GPIO24 Pin=X250-15
+Added Pin To Net: NetName=XMC_GPIO23 Pin=X250-16
+Added Pin To Net: NetName=XMC_GPIO22 Pin=X250-17
+Added Pin To Net: NetName=XMC_GPIO21 Pin=X250-18
+Added Pin To Net: NetName=XMC_GPIO20 Pin=X250-19
+Added Pin To Net: NetName=XMC_GPIO19 Pin=X250-20
+Added Pin To Net: NetName=XMC_GPIO18 Pin=X250-21
+Added Pin To Net: NetName=XMC_GPIO17 Pin=X250-22
+Added Pin To Net: NetName=VAGND Pin=X251-1
+Added Pin To Net: NetName=XMC_GPIO49 Pin=X251-2
+Added Pin To Net: NetName=XMC_GPIO48 Pin=X251-3
+Added Pin To Net: NetName=XMC_GPIO47 Pin=X251-4
+Added Pin To Net: NetName=XMC_GPIO46 Pin=X251-5
+Added Pin To Net: NetName=XMC_GPIO45 Pin=X251-6
+Added Pin To Net: NetName=XMC_GPIO44 Pin=X251-7
+Added Pin To Net: NetName=XMC_GPIO43 Pin=X251-8
+Added Pin To Net: NetName=XMC_GPIO42 Pin=X251-9
+Added Pin To Net: NetName=XMC_GPIO3 Pin=X251-10
+Added Pin To Net: NetName=XMC_GPIO41 Pin=X251-11
+Added Pin To Net: NetName=XMC_GPIO40 Pin=X251-12
+Added Pin To Net: NetName=XMC_GPIO39 Pin=X251-13
+Added Pin To Net: NetName=XMC_GPIO38 Pin=X251-14
+Added Pin To Net: NetName=UART1RX Pin=X251-15
+Added Pin To Net: NetName=UART1TX Pin=X251-16
+Added Pin To Net: NetName=XMC_GPIO1 Pin=X252-1
+Added Pin To Net: NetName=XMC_GPIO13 Pin=X252-2
+Added Pin To Net: NetName=XMC_GPIO12 Pin=X252-3
+Added Pin To Net: NetName=XMC_GPIO11 Pin=X252-4
+Added Pin To Net: NetName=XMC_GPIO10 Pin=X252-5
+Added Pin To Net: NetName=XMC_GPIO9 Pin=X252-6
+Added Pin To Net: NetName=XMC_GPIO7 Pin=X252-7
+Added Pin To Net: NetName=XMC_GPIO8 Pin=X252-8
+Added Pin To Net: NetName=LED_1 Pin=X252-9
+Added Pin To Net: NetName=LED_2 Pin=X252-10
+Added Pin To Net: NetName=LED_3 Pin=X252-11
+Added Pin To Net: NetName=XMC_GPIO14 Pin=X252-12
+Added Pin To Net: NetName=XMC_GPIO15 Pin=X252-13
+Added Pin To Net: NetName=XMC_GPIO16 Pin=X252-14
+Added Pin To Net: NetName=XMC_GPIO2 Pin=X252-15
+Added Pin To Net: NetName=VAGND Pin=X252-16
+Added Pin To Net: NetName=VAGND Pin=X253-1
+Added Pin To Net: NetName=VAGND Pin=X253-2
+Added Pin To Net: NetName=VAGND Pin=X253-3
+Added Pin To Net: NetName=XMC_GPIO64 Pin=X253-4
+Added Pin To Net: NetName=XMC_GPIO63 Pin=X253-5
+Added Pin To Net: NetName=XMC_GPIO62 Pin=X253-6
+Added Pin To Net: NetName=XMC_GPIO61 Pin=X253-7
+Added Pin To Net: NetName=XMC_GPIO60 Pin=X253-8
+Added Pin To Net: NetName=XMC_GPIO59 Pin=X253-9
+Added Pin To Net: NetName=XMC_GPIO58 Pin=X253-10
+Added Pin To Net: NetName=XMC_GPIO57 Pin=X253-11
+Added Pin To Net: NetName=XMC_GPIO56 Pin=X253-12
+Added Pin To Net: NetName=XMC_GPIO55 Pin=X253-13
+Added Pin To Net: NetName=XMC_GPIO54 Pin=X253-14
+Added Pin To Net: NetName=DAC2 Pin=X253-15
+Added Pin To Net: NetName=DAC1 Pin=X253-16
+Added Pin To Net: NetName=XMC_GPIO4 Pin=X253-17
+Added Pin To Net: NetName=XMC_GPIO53 Pin=X253-18
+Added Pin To Net: NetName=XMC_GPIO52 Pin=X253-19
+Added Pin To Net: NetName=XMC_GPIO5 Pin=X253-20
+Added Pin To Net: NetName=XMC_GPIO51 Pin=X253-21
+Added Pin To Net: NetName=XMC_GPIO50 Pin=X253-22
+Added Member To Class: ClassName=XMC4504 Member=Component X250 TSW-122-07-L-S
+Added Member To Class: ClassName=XMC4504 Member=Component X251 22-28-4166
+Added Member To Class: ClassName=XMC4504 Member=Component X252 22-28-4166
+Added Member To Class: ClassName=XMC4504 Member=Component X253 TSW-122-07-L-S
+Added Room: Name=PowerSupply

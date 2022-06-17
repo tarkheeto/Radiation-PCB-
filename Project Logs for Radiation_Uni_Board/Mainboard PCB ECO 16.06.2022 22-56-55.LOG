@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SWITCH_3V3_XMC Pin=C206-1
+Removed Pin From Net: NetName=SWITCH_3V3_XMC Pin=C207-2
+Removed Pin From Net: NetName=SWITCH_3V3_XMC Pin=STM32-G2
+Removed Pin From Net: NetName=SWITCH_3V3_XMC Pin=STM32-G11
+Removed Pin From Net: NetName=SWITCH_3V3_XMC Pin=STM32-G12
+Removed Pin From Net: NetName=SWITCH_3V3_XMC Pin=STM32-M1
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C206-1
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C207-2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=STM32-G2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=STM32-G11
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=STM32-G12
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=STM32-M1
+Add Pin To Net: Unknown Pin: Pin X201-

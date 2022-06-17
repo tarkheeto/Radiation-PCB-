@@ -1,0 +1,287 @@
+Removed Pin From Net: NetName=VAGND Pin=XMC-101
+Change Component Designator: OldDesignator=+- NewDesignator=Input_Header
+Change Component Designator: OldDesignator=12 MHz  NewDesignator=Y302
+Change Component Designator: OldDesignator=PWR NewDesignator=S?
+Added Component: Designator=J290(HDRV38W66P254_2X19_4826X508X874P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M20-998.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M20-9981946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV38W66P254_2X19_4826X508X874P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M20-998.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M20-9981946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MP1(SCREW_0082 3 16_NPTH)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "455343"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Steel Hexagonal 19x5.68 Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=455344"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "MEC_0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "MEC10000167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "M3 Cheese Head Screw X 5.68mm Head"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Hexagonal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Cheese-Head Screw, M2.5X5-DIN 912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=MP2(SCREW_0082 3 16_NPTH)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "455343"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Steel Hexagonal 19x5.68 Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=455344"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "MEC_0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "MEC10000167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "M3 Cheese Head Screw X 5.68mm Head"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Hexagonal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Cheese-Head Screw, M2.5X5-DIN 912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=MP3(SCREW_0082 3 16_NPTH)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "455343"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Steel Hexagonal 19x5.68 Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=455344"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "MEC_0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "MEC10000167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "M3 Cheese Head Screw X 5.68mm Head"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Hexagonal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Cheese-Head Screw, M2.5X5-DIN 912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=MP4(SCREW_0082 3 16_NPTH)
+Add component (AddParameter): Name = "Alternate View"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "455343"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = "Steel Hexagonal 19x5.68 Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=455344"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = "MEC_0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = "MEC10000167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multiple Parts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "M3 Cheese Head Screw X 5.68mm Head"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Hexagonal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Cheese-Head Screw, M2.5X5-DIN 912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0082 3 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USART1_TX Pin=J290-1
+Added Pin To Net: NetName=TIM1_CH1_PWM Pin=J290-2
+Added Pin To Net: NetName=USART1_RX Pin=J290-3
+Added Pin To Net: NetName=TIM1_CH2_PWM Pin=J290-4
+Added Pin To Net: NetName=USART1_RTS Pin=J290-5
+Added Pin To Net: NetName=GPIO1 Pin=J290-6
+Added Pin To Net: NetName=USART1_CTS Pin=J290-7
+Added Pin To Net: NetName=GPIO2 Pin=J290-8
+Added Pin To Net: NetName=USART1_CK Pin=J290-9
+Added Pin To Net: NetName=GPIO3 Pin=J290-10
+Added Pin To Net: NetName=LED_201 Pin=J290-11
+Added Pin To Net: NetName=GPIO4 Pin=J290-12
+Added Pin To Net: NetName=LED_202 Pin=J290-13
+Added Pin To Net: NetName=GPIO5 Pin=J290-14
+Added Pin To Net: NetName=LED_203 Pin=J290-15
+Added Pin To Net: NetName=GPIO6 Pin=J290-16
+Added Pin To Net: NetName=GPIO27 Pin=J290-17
+Added Pin To Net: NetName=GPIO7 Pin=J290-18
+Added Pin To Net: NetName=GPIO26 Pin=J290-19
+Added Pin To Net: NetName=GPIO8 Pin=J290-20
+Added Pin To Net: NetName=GPIO25 Pin=J290-21
+Added Pin To Net: NetName=GPIO9 Pin=J290-22
+Added Pin To Net: NetName=GPIO24 Pin=J290-23
+Added Pin To Net: NetName=GPIO10 Pin=J290-24
+Added Pin To Net: NetName=GPIO23 Pin=J290-25
+Added Pin To Net: NetName=GPIO11 Pin=J290-26
+Added Pin To Net: NetName=GPIO22 Pin=J290-27
+Added Pin To Net: NetName=GPIO12 Pin=J290-28
+Added Pin To Net: NetName=GPIO21 Pin=J290-29
+Added Pin To Net: NetName=GPIO13 Pin=J290-30
+Added Pin To Net: NetName=GPIO20 Pin=J290-31
+Added Pin To Net: NetName=GPIO14 Pin=J290-32
+Added Pin To Net: NetName=GPIO19 Pin=J290-33
+Added Pin To Net: NetName=GPIO15 Pin=J290-34
+Added Pin To Net: NetName=GPIO18 Pin=J290-35
+Added Pin To Net: NetName=GPIO16 Pin=J290-36
+Added Pin To Net: NetName=GPIO17 Pin=J290-37
+Added Pin To Net: NetName=NRST Pin=J290-38
+Added Pin To Net: NetName=GPIO28 Pin=J?-1
+Added Pin To Net: NetName=3V3 Pin=J?-2
+Added Pin To Net: NetName=GPIO29 Pin=J?-3
+Added Pin To Net: NetName=3V3 Pin=J?-4
+Added Pin To Net: NetName=GPIO30 Pin=J?-5
+Added Pin To Net: NetName=3V3 Pin=J?-6
+Added Pin To Net: NetName=GPIO31 Pin=J?-7
+Added Pin To Net: NetName=3V3 Pin=J?-8
+Added Pin To Net: NetName=GPIO32 Pin=J?-9
+Added Pin To Net: NetName=3V3 Pin=J?-10
+Added Pin To Net: NetName=GPIO33 Pin=J?-11
+Added Pin To Net: NetName=VAGND Pin=J?-12
+Added Pin To Net: NetName=GPIO34 Pin=J?-13
+Added Pin To Net: NetName=VAGND Pin=J?-14
+Added Pin To Net: NetName=GPIO35 Pin=J?-15
+Added Pin To Net: NetName=VAGND Pin=J?-16
+Added Pin To Net: NetName=GPIO36 Pin=J?-17
+Added Pin To Net: NetName=VAGND Pin=J?-18
+Added Pin To Net: NetName=GPIO37 Pin=J?-19
+Added Pin To Net: NetName=GPIO56 Pin=J?-20
+Added Pin To Net: NetName=GPIO38 Pin=J?-21
+Added Pin To Net: NetName=GPIO55 Pin=J?-22
+Added Pin To Net: NetName=GPIO39 Pin=J?-23
+Added Pin To Net: NetName=GPIO54 Pin=J?-24
+Added Pin To Net: NetName=GPIO40 Pin=J?-25
+Added Pin To Net: NetName=GPIO53 Pin=J?-26
+Added Pin To Net: NetName=GPIO41 Pin=J?-27
+Added Pin To Net: NetName=GPIO52 Pin=J?-28
+Added Pin To Net: NetName=GPIO42 Pin=J?-29
+Added Pin To Net: NetName=GPIO51 Pin=J?-30
+Added Pin To Net: NetName=GPIO43 Pin=J?-31
+Added Pin To Net: NetName=GPIO50 Pin=J?-32
+Added Pin To Net: NetName=GPIO44 Pin=J?-33
+Added Pin To Net: NetName=GPIO49 Pin=J?-34
+Added Pin To Net: NetName=GPIO45 Pin=J?-35
+Added Pin To Net: NetName=GPIO48 Pin=J?-36
+Added Pin To Net: NetName=GPIO46 Pin=J?-37
+Added Pin To Net: NetName=GPIO47 Pin=J?-38
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Pin To Net: NetName=NetXMC_101 Pin=XMC-101
+Added Member To Class: ClassName=STM32 Member=Component J290 M20-9981946
+Added Member To Class: ClassName=STM32 Member=Component J? M20-9981946
+Added Member To Class: ClassName=PowerSupply Member=Component MP1 0082 3 16
+Added Member To Class: ClassName=PowerSupply Member=Component MP2 0082 3 16
+Added Member To Class: ClassName=PowerSupply Member=Component MP3 0082 3 16
+Added Member To Class: ClassName=PowerSupply Member=Component MP4 0082 3 16
+Added Room: Name=XMC4504

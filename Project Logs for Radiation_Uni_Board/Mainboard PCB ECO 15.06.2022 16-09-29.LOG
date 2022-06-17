@@ -1,0 +1,292 @@
+Removed Pin From Net: NetName=3V3 Pin=C101-2
+Removed Pin From Net: NetName=3V3 Pin=C102-2
+Removed Pin From Net: NetName=3V3 Pin=C201-2
+Removed Pin From Net: NetName=3V3 Pin=C202-2
+Removed Pin From Net: NetName=3V3 Pin=C203-2
+Removed Pin From Net: NetName=3V3 Pin=C204-2
+Removed Pin From Net: NetName=3V3 Pin=C205-2
+Removed Pin From Net: NetName=3V3 Pin=C206-1
+Removed Pin From Net: NetName=3V3 Pin=C207-2
+Removed Pin From Net: NetName=3V3 Pin=C240-2
+Removed Pin From Net: NetName=3V3 Pin=C241-2
+Removed Pin From Net: NetName=3V3 Pin=D110-2
+Removed Pin From Net: NetName=3V3 Pin=G100-4
+Removed Pin From Net: NetName=USART1_TX Pin=J290-1
+Removed Pin From Net: NetName=TIM1_CH1_PWM Pin=J290-2
+Removed Pin From Net: NetName=USART1_RX Pin=J290-3
+Removed Pin From Net: NetName=TIM1_CH2_PWM Pin=J290-4
+Removed Pin From Net: NetName=USART1_RTS Pin=J290-5
+Removed Pin From Net: NetName=USART1_CTS Pin=J290-7
+Removed Pin From Net: NetName=USART1_CK Pin=J290-9
+Removed Pin From Net: NetName=LED_201 Pin=J290-11
+Removed Pin From Net: NetName=LED_202 Pin=J290-13
+Removed Pin From Net: NetName=LED_203 Pin=J290-15
+Removed Pin From Net: NetName=GPIO27 Pin=J290-17
+Removed Pin From Net: NetName=GPIO26 Pin=J290-19
+Removed Pin From Net: NetName=GPIO25 Pin=J290-21
+Removed Pin From Net: NetName=GPIO24 Pin=J290-23
+Removed Pin From Net: NetName=GPIO23 Pin=J290-25
+Removed Pin From Net: NetName=NRST Pin=J290-38
+Removed Pin From Net: NetName=GPIO28 Pin=J?-1
+Removed Pin From Net: NetName=3V3 Pin=J?-2
+Removed Pin From Net: NetName=GPIO29 Pin=J?-3
+Removed Pin From Net: NetName=3V3 Pin=J?-4
+Removed Pin From Net: NetName=GPIO30 Pin=J?-5
+Removed Pin From Net: NetName=3V3 Pin=J?-6
+Removed Pin From Net: NetName=GPIO31 Pin=J?-7
+Removed Pin From Net: NetName=3V3 Pin=J?-8
+Removed Pin From Net: NetName=3V3 Pin=J?-10
+Removed Pin From Net: NetName=VAGND Pin=J?-12
+Removed Pin From Net: NetName=VAGND Pin=J?-14
+Removed Pin From Net: NetName=VAGND Pin=J?-16
+Removed Pin From Net: NetName=VAGND Pin=J?-18
+Removed Pin From Net: NetName=GPIO54 Pin=J?-24
+Removed Pin From Net: NetName=3V3 Pin=STM32-C4
+Removed Pin From Net: NetName=3V3 Pin=STM32-E2
+Removed Pin From Net: NetName=3V3 Pin=STM32-G2
+Removed Pin From Net: NetName=3V3 Pin=STM32-G11
+Removed Pin From Net: NetName=3V3 Pin=STM32-G12
+Removed Pin From Net: NetName=LED_201 Pin=STM32-K4
+Removed Pin From Net: NetName=LED_202 Pin=STM32-K5
+Removed Pin From Net: NetName=LED_203 Pin=STM32-K8
+Removed Pin From Net: NetName=3V3 Pin=STM32-L1
+Removed Pin From Net: NetName=3V3 Pin=STM32-M1
+Removed Pin From Net: NetName=3V3 Pin=X200-1
+Removed Pin From Net: NetName=3V3 Pin=X200-2
+Removed Pin From Net: NetName=3V3 Pin=XMC-12
+Removed Pin From Net: NetName=3V3 Pin=XMC-42
+Removed Pin From Net: NetName=3V3 Pin=XMC-64
+Removed Pin From Net: NetName=3V3 Pin=XMC-86
+Removed Member From Class: ClassName=STM32 Member=J290
+Removed Member From Class: ClassName=STM32 Member=J?
+Change Component Designator: OldDesignator=PWR NewDesignator=S?
+Added Component: Designator=STM_SW(SW-SMD-CL-SB-12A-01T)
+Add component (AddParameter): Name = "Application"; Value = "Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "650099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "www.copal-electronics.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=650100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NIDEC COPAL ELECTRONICS, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "CL-SB-12A-01T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Switch, SMD, 3 Pins, 3.50 mm W X 8.50 mm L X 6.10 mm H body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Electro Mechanic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2854744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "563-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "229-CL-SB-12A-01T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Switch, 2 Change Over 1 3, 3 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CL-SB-12A-01T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Added Component: Designator=XMC_SW(SW-SMD-CL-SB-12A-01T)
+Add component (AddParameter): Name = "Application"; Value = "Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Article Number"; Value = "650099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Combined Parameters"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "www.copal-electronics.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=650100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy DeviceID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Legacy PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NIDEC COPAL ELECTRONICS, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "CL-SB-12A-01T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Switch, SMD, 3 Pins, 3.50 mm W X 8.50 mm L X 6.10 mm H body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Electro Mechanic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QuickPick"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2854744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "563-1314-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "229-CL-SB-12A-01T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Type"; Value = "Switch, 2 Change Over 1 3, 3 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature max"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature min"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CL-SB-12A-01T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version Number"; Value = "V00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Pin To Net: NetName=3V3 Pin=XMC_SW-3
+Change Net Name : Old Net Name=3V3 New Net Name=VAREF
+Added Pin To Net: NetName=3V3 Pin=C101-2
+Added Pin To Net: NetName=3V3 Pin=C102-2
+Added Pin To Net: NetName=3V3 Pin=D110-2
+Added Pin To Net: NetName=3V3 Pin=G100-4
+Added Pin To Net: NetName=3V3 Pin=STM32-C4
+Added Pin To Net: NetName=3V3 Pin=STM32-E2
+Added Pin To Net: NetName=3V3 Pin=STM_SW-2
+Added Pin To Net: NetName=3V3 Pin=XMC_SW-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetSTM_SW_3 Pin=STM_SW-3
+Added Net: Name=NetSTM_SW_3
+Added Pin To Net: NetName=NetXMC_SW_1 Pin=XMC_SW-1
+Added Net: Name=NetXMC_SW_1
+Added Pin To Net: NetName=PA2 Pin=STM32-K3
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=STM32-L3
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA5 Pin=STM32-K4
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=STM32-L4
+Added Net: Name=PA6
+Added Pin To Net: NetName=PB2 Pin=STM32-L6
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB5 Pin=STM32-C5
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=STM32-B5
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=STM32-B4
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB9 Pin=STM32-B3
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=STM32-L10
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=STM32-K9
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=STM32-L12
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=STM32-K12
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=STM32-K11
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=STM32-K10
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC0 Pin=STM32-H1
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=STM32-J2
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=STM32-J3
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=STM32-K2
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=STM32-K5
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=STM32-L5
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=STM32-E12
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=STM32-E11
+Added Net: Name=PC7
+Added Pin To Net: NetName=PC8 Pin=STM32-E10
+Added Net: Name=PC8
+Added Pin To Net: NetName=PC9 Pin=STM32-D12
+Added Net: Name=PC9
+Added Pin To Net: NetName=PC10 Pin=STM32-B11
+Added Net: Name=PC10
+Added Pin To Net: NetName=PC11 Pin=STM32-C10
+Added Net: Name=PC11
+Added Pin To Net: NetName=PC12 Pin=STM32-B10
+Added Net: Name=PC12
+Added Pin To Net: NetName=PC13 Pin=STM32-C1
+Added Net: Name=PC13
+Added Pin To Net: NetName=PD0 Pin=STM32-C9
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=STM32-B9
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=STM32-C8
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=STM32-B8
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=STM32-B7
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD6 Pin=STM32-B6
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD9 Pin=STM32-K8
+Added Net: Name=PD9
+Added Pin To Net: NetName=PD10 Pin=STM32-J12
+Added Net: Name=PD10
+Added Pin To Net: NetName=PD11 Pin=STM32-J11
+Added Net: Name=PD11
+Added Pin To Net: NetName=PD12 Pin=STM32-J10
+Added Net: Name=PD12
+Added Pin To Net: NetName=PD13 Pin=STM32-H12
+Added Net: Name=PD13
+Added Pin To Net: NetName=PD14 Pin=STM32-H11
+Added Net: Name=PD14
+Added Pin To Net: NetName=PD15 Pin=STM32-H10
+Added Net: Name=PD15
+Added Pin To Net: NetName=PE0 Pin=STM32-C3
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE2 Pin=STM32-B2
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE4 Pin=STM32-B1
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=STM32-C2
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=STM32-D2
+Added Net: Name=PE6
+Added Pin To Net: NetName=PE8 Pin=STM32-L7
+Added Net: Name=PE8
+Added Pin To Net: NetName=PE10 Pin=STM32-L8
+Added Net: Name=PE10
+Added Pin To Net: NetName=PE12 Pin=STM32-L9
+Added Net: Name=PE12
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C201-2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C202-2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C203-2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C204-2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C205-2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C240-2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=C241-2
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=STM_SW-1
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=X200-1
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=X200-2
+Added Net: Name=SWITCH_3V3_STM
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=C206-1
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=C207-2
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=STM32-G2
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=STM32-G11
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=STM32-G12
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=STM32-L1
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=STM32-M1
+Added Net: Name=SWITCH_3V3_XMC
+Added Pin To Net: NetName=VDDC Pin=XMC-12
+Added Pin To Net: NetName=VDDC Pin=XMC-42
+Added Pin To Net: NetName=VDDC Pin=XMC-64
+Added Pin To Net: NetName=VDDC Pin=XMC-86
+Added Net: Name=VDDC
+Added Member To Class: ClassName=STM32 Member=Component STM_SW CL-SB-12A-01T
+Added Member To Class: ClassName=XMC4504 Member=Component XMC_SW CL-SB-12A-01T

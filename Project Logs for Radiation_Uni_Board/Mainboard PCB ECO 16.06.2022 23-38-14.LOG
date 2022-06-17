@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=OSC32_IN Pin=X201-1
+Added Component: Designator=PDO_JMPR_(HDRV2W68P254_2X1_213X488X1045P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=146254&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-146254-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWITCH_3V3_STM Pin=PDO_JMPR_-1
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Pin To Net: NetName=PDO_RESET Pin=PDO_JMPR_-2
+Added Pin To Net: NetName=PDO_RESET Pin=STM32-H3
+Added Net: Name=PDO_RESET
+Added Member To Class: ClassName=STM32 Member=Component PDO_JMPR_ 5-146254-1

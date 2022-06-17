@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=XBottom_STM? NewDesignator=XRight_STM
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Pin To Net: NetName=PE2 Pin=XRight_STM-1
+Added Pin To Net: NetName=PB9 Pin=XRight_STM-2
+Added Pin To Net: NetName=PB7 Pin=XRight_STM-3
+Added Pin To Net: NetName=PB6 Pin=XRight_STM-4
+Added Pin To Net: NetName=PD6 Pin=XRight_STM-5
+Added Pin To Net: NetName=PD15 Pin=XRight_STM-8
+Added Pin To Net: NetName=PD14 Pin=XRight_STM-9
+Added Pin To Net: NetName=PD13 Pin=XRight_STM-10
+Added Pin To Net: NetName=PD12 Pin=XRight_STM-11
+Added Pin To Net: NetName=PD11 Pin=XRight_STM-12
+Added Pin To Net: NetName=PD10 Pin=XRight_STM-13
+Added Pin To Net: NetName=PB15 Pin=XRight_STM-14
+Added Pin To Net: NetName=PB14 Pin=XRight_STM-15
+Added Pin To Net: NetName=PB13 Pin=XRight_STM-16
+Change Net Name : Old Net Name=NetXBottom_STM?_6 New Net Name=D11
+Change Net Name : Old Net Name=NetXBottom_STM?_7 New Net Name=D12

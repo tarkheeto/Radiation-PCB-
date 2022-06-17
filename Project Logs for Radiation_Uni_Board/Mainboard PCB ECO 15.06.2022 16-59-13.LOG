@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3V3 Pin=STM32-C4
+Removed Pin From Net: NetName=3V3 Pin=STM32-E2
+Change Component Designator: OldDesignator=VCAP NewDesignator=C208
+Change Component Designator: OldDesignator=VCAP NewDesignator=C209
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=STM32-C4
+Added Pin To Net: NetName=SWITCH_3V3_XMC Pin=STM32-E2
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Member To Class: ClassName=STM32 Member=Component C208 4.7uF
