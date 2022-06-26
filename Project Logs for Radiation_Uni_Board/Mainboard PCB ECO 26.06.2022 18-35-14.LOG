@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=OSC32_IN Pin=XSTAL-1
+Removed Member From Class: ClassName=STM32 Member=XSTAL
+Change Component Designator: OldDesignator=+ - NewDesignator=Input_Header
+Change Component Designator: OldDesignator=PDO NewDesignator=PDO_JMPR_
+Change Component Designator: OldDesignator=R0 NewDesignator=R201
+Change Component Designator: OldDesignator=RESET NewDesignator=S200
+Change Component Designator: OldDesignator=XMC4504 NewDesignator=XMC
+Change Component Designator: OldDesignator=XSTAL NewDesignator=X201
+Change Component Designator: OldDesignator=XSTAL NewDesignator=X202
+Change Component Designator: OldDesignator=XSTAL NewDesignator=Y301
+Change Component Designator: OldDesignator=XSTAL NewDesignator=Y302
+Add Pin To Net: Unknown Pin: Pin X201-
+Change Net Name : Old Net Name=PA8 New Net Name=NetSTM32_D11
+Change Net Name : Old Net Name=PB5 New Net Name=NetSTM32_C5
+Change Net Name : Old Net Name=PC9 New Net Name=NetSTM32_D12
+Added Pin To Net: NetName=NetSTM32_B2 Pin=STM32-B2
+Added Net: Name=NetSTM32_B2
+Added Pin To Net: NetName=NetSTM32_B3 Pin=STM32-B3
+Added Net: Name=NetSTM32_B3
+Added Pin To Net: NetName=NetSTM32_B4 Pin=STM32-B4
+Added Net: Name=NetSTM32_B4
+Added Pin To Net: NetName=NetSTM32_B6 Pin=STM32-B6
+Added Net: Name=NetSTM32_B6
+Added Pin To Net: NetName=NetSTM32_B7 Pin=STM32-B7
+Added Net: Name=NetSTM32_B7
+Added Pin To Net: NetName=NetSTM32_B8 Pin=STM32-B8
+Added Net: Name=NetSTM32_B8
+Added Pin To Net: NetName=NetSTM32_B9 Pin=STM32-B9
+Added Net: Name=NetSTM32_B9
+Added Pin To Net: NetName=NetSTM32_B10 Pin=STM32-B10
+Added Net: Name=NetSTM32_B10
+Added Pin To Net: NetName=NetSTM32_C2 Pin=STM32-C2
+Added Net: Name=NetSTM32_C2
+Added Pin To Net: NetName=NetSTM32_C3 Pin=STM32-C3
+Added Net: Name=NetSTM32_C3
+Added Pin To Net: NetName=NetSTM32_C9 Pin=STM32-C9
+Added Net: Name=NetSTM32_C9
+Added Pin To Net: NetName=NetSTM32_D2 Pin=STM32-D2
+Added Net: Name=NetSTM32_D2
+Added Pin To Net: NetName=NetSTM32_H1 Pin=STM32-H1
+Added Net: Name=NetSTM32_H1
+Added Pin To Net: NetName=NetSTM32_H11 Pin=STM32-H11
+Added Net: Name=NetSTM32_H11
+Added Pin To Net: NetName=NetSTM32_J2 Pin=STM32-J2
+Added Net: Name=NetSTM32_J2
+Added Pin To Net: NetName=NetSTM32_J11 Pin=STM32-J11
+Added Net: Name=NetSTM32_J11
+Added Pin To Net: NetName=NetSTM32_K2 Pin=STM32-K2
+Added Net: Name=NetSTM32_K2
+Added Pin To Net: NetName=NetSTM32_K3 Pin=STM32-K3
+Added Net: Name=NetSTM32_K3
+Added Pin To Net: NetName=NetSTM32_K11 Pin=STM32-K11
+Added Net: Name=NetSTM32_K11
+Added Pin To Net: NetName=NetSTM32_L3 Pin=STM32-L3
+Added Net: Name=NetSTM32_L3
+Added Pin To Net: NetName=NetSTM32_L10 Pin=STM32-L10
+Added Net: Name=NetSTM32_L10
+Added Pin To Net: NetName=NetSTM32_L12 Pin=STM32-L12
+Added Net: Name=NetSTM32_L12
+Added Pin To Net: NetName=NetXBottom_STM_1 Pin=XBottom_STM-1
+Added Net: Name=NetXBottom_STM_1
+Added Pin To Net: NetName=NetXBottom_STM_2 Pin=XBottom_STM-2
+Added Net: Name=NetXBottom_STM_2
+Added Pin To Net: NetName=NetXLEFT_STM_8 Pin=XLEFT_STM-8
+Added Net: Name=NetXLEFT_STM_8
+Added Pin To Net: NetName=NetXLEFT_STM_9 Pin=XLEFT_STM-9
+Added Net: Name=NetXLEFT_STM_9
+Added Pin To Net: NetName=NetXLEFT_STM_10 Pin=XLEFT_STM-10
+Added Net: Name=NetXLEFT_STM_10
+Added Pin To Net: NetName=NetXLEFT_STM_12 Pin=XLEFT_STM-12
+Added Net: Name=NetXLEFT_STM_12
+Added Pin To Net: NetName=NetXLEFT_STM_13 Pin=XLEFT_STM-13
+Added Net: Name=NetXLEFT_STM_13
+Added Pin To Net: NetName=NetXLEFT_STM_14 Pin=XLEFT_STM-14
+Added Net: Name=NetXLEFT_STM_14
+Added Pin To Net: NetName=NetXRight_STM_1 Pin=XRight_STM-1
+Added Net: Name=NetXRight_STM_1
+Added Pin To Net: NetName=NetXRight_STM_2 Pin=XRight_STM-2
+Added Net: Name=NetXRight_STM_2
+Added Pin To Net: NetName=NetXRight_STM_3 Pin=XRight_STM-3
+Added Net: Name=NetXRight_STM_3
+Added Pin To Net: NetName=NetXRight_STM_5 Pin=XRight_STM-5
+Added Net: Name=NetXRight_STM_5
+Added Pin To Net: NetName=NetXRight_STM_6 Pin=XRight_STM-6
+Added Net: Name=NetXRight_STM_6
+Added Pin To Net: NetName=NetXRight_STM_7 Pin=XRight_STM-7
+Added Net: Name=NetXRight_STM_7
+Added Pin To Net: NetName=NetXRight_STM_9 Pin=XRight_STM-9
+Added Net: Name=NetXRight_STM_9
+Added Pin To Net: NetName=NetXRight_STM_12 Pin=XRight_STM-12
+Added Net: Name=NetXRight_STM_12
+Added Pin To Net: NetName=NetXRight_STM_15 Pin=XRight_STM-15
+Added Net: Name=NetXRight_STM_15
+Added Pin To Net: NetName=NetXTOP_STM_12 Pin=XTOP_STM-12
+Added Net: Name=NetXTOP_STM_12
+Added Pin To Net: NetName=NetXTOP_STM_13 Pin=XTOP_STM-13
+Added Net: Name=NetXTOP_STM_13
+Added Pin To Net: NetName=NetXTOP_STM_14 Pin=XTOP_STM-14
+Added Net: Name=NetXTOP_STM_14
+Added Pin To Net: NetName=NetXTOP_STM_15 Pin=XTOP_STM-15
+Added Net: Name=NetXTOP_STM_15
+Added Pin To Net: NetName=NetXTOP_STM_19 Pin=XTOP_STM-19
+Added Net: Name=NetXTOP_STM_19
+Added Member To Class: ClassName=STM32 Member=Component X201 NX3215SA-32.768KHZ-EXS00A-MU00525
+Added Member To Class: ClassName=STM32 Member=Component X202 NX2016SA-24MHZ-EXS00A-CS10820
+Added Member To Class: ClassName=XMC4504 Member=Component Y302 12MHz

@@ -1,0 +1,6 @@
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Pin To Net: NetName=VAGND Pin=XTOP_STM-12
+Added Pin To Net: NetName=VAGND Pin=XTOP_STM-13
+Added Pin To Net: NetName=VAGND Pin=XTOP_STM-14
+Added Pin To Net: NetName=VAGND Pin=XTOP_STM-15
+Add Class Member: Failed to add class member : Component XMC_SW CL-SB-12A-01T

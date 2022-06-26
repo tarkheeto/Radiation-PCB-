@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=OSC32_IN Pin=X201-1
+Removed Pin From Net: NetName=PE15 Pin=XBottom_STM-3
+Removed Pin From Net: NetName=PE14 Pin=XBottom_STM-4
+Removed Pin From Net: NetName=PE13 Pin=XBottom_STM-5
+Removed Pin From Net: NetName=PE11 Pin=XBottom_STM-6
+Removed Pin From Net: NetName=PB11 Pin=XBottom_STM-8
+Removed Pin From Net: NetName=PE9 Pin=XBottom_STM-9
+Removed Pin From Net: NetName=PD9 Pin=XBottom_STM-11
+Removed Pin From Net: NetName=PE7 Pin=XBottom_STM-12
+Removed Pin From Net: NetName=PB0 Pin=XBottom_STM-16
+Removed Pin From Net: NetName=PC4 Pin=XLEFT_STM-2
+Removed Pin From Net: NetName=PA7 Pin=XLEFT_STM-3
+Removed Pin From Net: NetName=PA5 Pin=XLEFT_STM-5
+Removed Pin From Net: NetName=PA4 Pin=XLEFT_STM-6
+Removed Pin From Net: NetName=PA1 Pin=XLEFT_STM-7
+Removed Pin From Net: NetName=PC13 Pin=XLEFT_STM-15
+Removed Pin From Net: NetName=PE4 Pin=XLEFT_STM-16
+Removed Pin From Net: NetName=PD15 Pin=XRight_STM-8
+Removed Pin From Net: NetName=PD13 Pin=XRight_STM-10
+Removed Pin From Net: NetName=PD12 Pin=XRight_STM-11
+Removed Pin From Net: NetName=PD10 Pin=XRight_STM-13
+Removed Pin From Net: NetName=PB15 Pin=XRight_STM-14
+Removed Pin From Net: NetName=PB13 Pin=XRight_STM-16
+Removed Member From Class: ClassName=STM32 Member=XLEFT_STM
+Removed Member From Class: ClassName=STM32 Member=XRight_STM
+Change Component Footprint: Designator=XBottom_STM Old Footprint=HDRV16W66P254_1X16_4064X249X838B New Footprint=CON-M-THT-TSW-122-07-L-S
+Change Component Comment : Designator=XBottom_STM Old Comment=22-28-4166 New Comment=TSW-122-07-L-S
+Change component parameters: Designator = "XBottom_STM" ("XBottom_STM"); Footprint = "HDRV16W66P254_1X16_4064X249X838B"; UniqueID = "\DNNWVXLU" ("\DNNWVXLU")
+Change component parameters (AddParameter): Name = "Application"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Article Number"; Value = "385945"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Automotive Qualified"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Combined Parameters"; Value = "Board-to-Board/Cable Header (male);22x1;Mounting:THT;Orient:0° (vertical);Shielded:No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Vendor WebSite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://webnetprod.muc.infineon.com/PCBPortal_Prod/WorkFlows/AltiumComponent/StandardDocumentation?Versionid=385946"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentStatus"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Legacy DeviceID"; Value = "SAM_TSW-122-07-L-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Legacy PartNumber"; Value = "CON01500868"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Order Number"; Value = "TSW-122-07-L-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Header, Vertical, 2.54mm pitch; 0.64mm lead width, 22 pins, Single row, 55.88mm L X 2.54mm W X 8.712mm H body"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Imperial"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Metric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Provision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB Remarks"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PLMStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QuickPick"; Value = "0° (vertical) / Board-to-Board/Cable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schematic Remarks"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Second Source allowed"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style"; Value = "Strip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2035626"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1031-22-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol type"; Value = "Header 22pins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature max"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature min"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "Military"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance Neg"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance Pos"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Board-to-Board/Cable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TSW-122-07-L-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Version Number"; Value = "V01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage DC (max)"; Value = "na"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin X201-
+Added Pin To Net: NetName=PB13 Pin=XBottom_STM-1
+Added Pin To Net: NetName=PB15 Pin=XBottom_STM-2
+Added Pin To Net: NetName=PD10 Pin=XBottom_STM-3
+Added Pin To Net: NetName=PD12 Pin=XBottom_STM-4
+Added Pin To Net: NetName=PD15 Pin=XBottom_STM-5
+Added Pin To Net: NetName=PE15 Pin=XBottom_STM-6
+Added Pin To Net: NetName=PE14 Pin=XBottom_STM-7
+Added Pin To Net: NetName=PE13 Pin=XBottom_STM-8
+Added Pin To Net: NetName=PE11 Pin=XBottom_STM-9
+Added Pin To Net: NetName=PB11 Pin=XBottom_STM-10
+Added Pin To Net: NetName=PE9 Pin=XBottom_STM-11
+Added Pin To Net: NetName=PD9 Pin=XBottom_STM-12
+Added Pin To Net: NetName=PE7 Pin=XBottom_STM-13
+Added Pin To Net: NetName=PB0 Pin=XBottom_STM-15
+Added Pin To Net: NetName=PC4 Pin=XBottom_STM-16
+Added Pin To Net: NetName=PA7 Pin=XBottom_STM-17
+Added Pin To Net: NetName=PA5 Pin=XBottom_STM-18
+Added Pin To Net: NetName=PA4 Pin=XBottom_STM-19
+Added Pin To Net: NetName=PA1 Pin=XBottom_STM-20
+Added Pin To Net: NetName=PE4 Pin=XBottom_STM-21
+Added Pin To Net: NetName=PC13 Pin=XBottom_STM-22
+Added Pin To Net: NetName=PD13 Pin=XTOP_STM-19
